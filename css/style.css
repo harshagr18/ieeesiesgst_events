@@ -2428,3 +2428,13 @@ h3.tittle {
         bottom: 200px;
     }
 }
+
+/* Form Css */
+.ev_form{
+    border: 1px solid red;
+    padding: 2%;
+}
+
+.ev_btn {
+    width: 25%;
+}
