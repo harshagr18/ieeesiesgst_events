@@ -2438,3 +2438,14 @@ h3.tittle {
 .ev_btn {
     width: 25%;
 }
+
+.form-required-show
+{
+    text-align: right;
+    font-size: 13px;
+}
+
+.form-required
+{
+    color: red;
+}
